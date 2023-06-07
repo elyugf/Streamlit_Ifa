@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 #loading the saved ,odel
-loaded_model = pickle.load(open('trained_model.sav', 'rb'))
+
 
 #creating a functio for prediction
 
