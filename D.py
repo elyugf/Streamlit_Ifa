@@ -2,9 +2,6 @@ import numpy as np
 import pickle
 import streamlit as st
 
-#loading the saved ,odel
-
-
 #creating a functio for prediction
 
 def diabetes_prediction(input_data):
